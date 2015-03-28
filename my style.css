@@ -1,0 +1,23 @@
+body {
+	background-image: url(http://fc03.deviantart.net/fs70/f/2010/320/d/1/website_background_by_modsoft-d3302jz.png);
+	margin:5%;
+	background-size: cover
+}
+p{
+	color: white;
+	font-size: 25px
+	
+}
+#myid{
+	color: black;
+	outline: solid;
+	outline color: black;
+}
+.media {
+	color: white;
+
+}
+.subtitles {
+	color: yellow;
+	font-size: 35px
+}
